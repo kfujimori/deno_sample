@@ -9,9 +9,9 @@ body {
 }
 main {
 /*
-  margin: 50vh auto 0;
   padding: 15px 30px; 
 */
+  margin: 50vh auto 0;
   transform: translateY(-50%);
   border: solid 1px white;
   text-align: center;
