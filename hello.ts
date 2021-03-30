@@ -11,7 +11,7 @@ main {
   color: white;
 /*  margin: 50vh auto 0; */
 /*  transform: translateY(-50%); */
-/*  padding: 15px 30px; */
+  padding: 15px 30px; 
   text-align: center;
   font-size: 10em;
   text-transform: uppercase;
