@@ -13,6 +13,7 @@ main {
   transform: translateY(-50%);
   padding: 15px 30px; 
 */
+  border: solid 1px white;
   text-align: center;
   font-size: 10em;
 }
