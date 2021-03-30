@@ -4,7 +4,7 @@ const page = (title: string, body: string): Response => new Response(`<title>${t
 <meta charset="utf-8"/>
 <style>
 body {
-  line-height: 1.5em;
+  line-height: 10.5em;
 }
 main {
   background: black;
