@@ -8,8 +8,6 @@ body {
   color: white;
 }
 main {
-  padding: 10px 10px; 
-  margin: 50vh auto 0;
   border: solid 1px white;
   text-align: center;
 }
@@ -20,6 +18,6 @@ ${body}
 `, {"headers": {"content-type": "text/html; charset=utf-8"}});
 
 serve({
-  "/": () => page("deno depoly sample", "デノ"),
-  404: () => page("deno depoly sample", "ありまへん"),
+  "/": () => page("deno depoly sample", "Deno"),
+  404: () => page("deno depoly sample", "Not Found"),
 });
