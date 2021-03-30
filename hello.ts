@@ -21,6 +21,6 @@ ${body}
 `, {"headers": {"content-type": "text/html; charset=utf-8"}});
 
 serve({
-  "/": () => page("デノ", "デノ"),
-  404: () => page("デノ", "ありまへん"),
+  "/": () => page("deno depoly sample", "デノ"),
+  404: () => page("deno depoly sample", "ありまへん"),
 });
