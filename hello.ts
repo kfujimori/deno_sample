@@ -15,7 +15,6 @@ main {
   transform: translateY(-50%);
   border: solid 1px white;
   text-align: center;
-  font-size: 10em;
 }
 </style>
 <main>
