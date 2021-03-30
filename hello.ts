@@ -10,9 +10,9 @@ body {
 main {
 /*
   margin: 50vh auto 0;
-  transform: translateY(-50%);
   padding: 15px 30px; 
 */
+  transform: translateY(-50%);
   border: solid 1px white;
   text-align: center;
   font-size: 10em;
