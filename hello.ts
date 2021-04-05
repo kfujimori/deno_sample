@@ -12,6 +12,7 @@ main {
   padding: 15px 30px;
   transform: translateY(-50%);
   text-align: center;
+  margin: 50vh auto 0;
 }
 </style>
 <main>
