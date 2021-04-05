@@ -10,6 +10,7 @@ body {
 main {
   border: solid 1px white;
   padding: 15px 30px;
+  transform: translateY(-50%);
   text-align: center;
 }
 </style>
